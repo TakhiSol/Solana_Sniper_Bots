@@ -1,0 +1,9 @@
+{
+  "solIn": 500000,
+  "txNum": 30,
+  "takeProfit": 3,
+  "stopLoss": 3,
+  "txDelay": 1,
+  "txFee": 0.0001,
+  "computeUnit": 600000
+}
