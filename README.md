@@ -88,8 +88,8 @@ npm start
 
 ## Author
 
-Discord: Takhi77 in discord
+Discord: takhi_77 in discord
 
-Telegram: [@Takhi777](https://t.me/@Takhi777)
+Telegram: [@SolSon](https://t.me/@pio_sol)
 
 You can always feel free to find me here for my help on other projects.
