@@ -90,6 +90,6 @@ npm start
 
 Discord: takhi_77 in discord
 
-Telegram: [@SolSon](https://t.me/@pio_sol)
+Telegram: [@Takhi](https://t.me/@@takhi_77)
 
 You can always feel free to find me here for my help on other projects.
