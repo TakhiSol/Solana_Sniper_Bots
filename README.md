@@ -88,7 +88,7 @@ npm start
 
 ## Author
 
-Discord: takhi_77 in discord
+Discord: takhi777 in discord
 
 Telegram: [@Takhi](https://t.me/@hi_3333)
 
