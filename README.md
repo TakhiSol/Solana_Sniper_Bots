@@ -1,4 +1,4 @@
-# Solana Raydium Sniper & Pumpfun Sniper & Meteora Sniper & Pumpfun-Raydium-Migration Sniper
+# Solana Raydium Bonkfun Sniper & Pumpfun Sniper & Meteora Sniper & Pumpfun-Raydium-Migration Sniper
 
 This bot is designed to to sniper newly launched tokens in Pumpfun, Raydium and Meteora and also Migration from pumpfun to raydium with some good filters. You will be very fast sniper within first or second block.
 
